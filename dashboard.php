@@ -381,22 +381,22 @@
             </div>
         </div>
     </div>
+    <!-- Partie footer-->
 
-    <!-- Partie Footer -->
     <footer>
+   
 
         <div>
 
        
             <ul class="mail">
-                <li>LAVIT Gaetan<br> <a href="dimitrigign@gmail.com" id="copy"><img src="images/email.png" width="20px"
+                <li>LAVIT Gaetan<br> <a href="g.lavit@outlook.fr" id="copy"><img src="images/email.png" width="20px"
                     height="20px" /></a>
-            <a href="https://www.linkedin.com/in/dimitri-gigan-80a52a184/" target="blank"><img
+            <a href="https://www.linkedin.com/in/gaetan-lavit-d-hautefort-6231241b8/" target="blank"><img
                     src="images/linkedin-rond-300x300.png" width="20px" height="20px" /></a>
-            <a href="https://www.facebook.com/dimitri.gigan" target="blank"><img
+            <a href="https://www.facebook.com/gaetan.lavit.5/" target="blank"><img
                     src="images/Facebook-share-icon.png" width="20px" height="20px" /></a>
-            <a href="https://twitter.com/Dimimajin" target="blank"><img src="images/logo-rond-twitter.png"
-                    width="20px" height="20px" /></a>
+            
                     
                 </li>
 
@@ -409,31 +409,25 @@
                             src="images/linkedin-rond-300x300.png" width="20px" height="20px" /></a>
                     <a href="https://www.facebook.com/dimitri.gigan" target="blank"><img
                             src="images/Facebook-share-icon.png" width="20px" height="20px" /></a>
-                    <a href="https://twitter.com/Dimimajin" target="blank"><img src="images/logo-rond-twitter.png"
-                            width="20px" height="20px" /></a>
-
+                   
 
                 </li>
             
 
-                <li>AH-KENG Abel <br> <a href="dimitrigign@gmail.com" id="copy"><img src="images/email.png" width="20px"
+                <li>AH-KENG Abel <br> <a href="sandro030601@gmail.com" id="copy"><img src="images/email.png" width="20px"
                     height="20px" /></a>
-            <a href="https://www.linkedin.com/in/dimitri-gigan-80a52a184/" target="blank"><img
+            <a href="https://www.linkedin.com/in/abel-ah-keng-4490891b8/" target="blank"><img
                     src="images/linkedin-rond-300x300.png" width="20px" height="20px" /></a>
-            <a href="https://www.facebook.com/dimitri.gigan" target="blank"><img
+            <a href="https://www.facebook.com/abel.akn" target="blank"><img
                     src="images/Facebook-share-icon.png" width="20px" height="20px" /></a>
-            <a href="https://twitter.com/Dimimajin" target="blank"><img src="images/logo-rond-twitter.png"
-                    width="20px" height="20px" /></a></li>
-
-                <li>BEGE Swann <br> <a href="dimitrigign@gmail.com" id="copy"><img src="images/email.png" width="20px"
+           
+                <li>BEGE Swann <br> <a href="swann.bege@gmail.com" id="copy"><img src="images/email.png" width="20px"
                     height="20px" /></a>
-            <a href="https://www.linkedin.com/in/dimitri-gigan-80a52a184/" target="blank"><img
+            <a href="https://www.linkedin.com/in/swann-bege-56702a1bb/" target="blank"><img
                     src="images/linkedin-rond-300x300.png" width="20px" height="20px" /></a>
-            <a href="https://www.facebook.com/dimitri.gigan" target="blank"><img
+            <a href="https://www.facebook.com/wahib.Qlf/" target="blank"><img
                     src="images/Facebook-share-icon.png" width="20px" height="20px" /></a>
-            <a href="https://twitter.com/Dimimajin" target="blank"><img src="images/logo-rond-twitter.png"
-                    width="20px" height="20px" /></a></li>
-
+            
             </ul>
 
         </div>
